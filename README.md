@@ -1,7 +1,5 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## jsc0396
-jsc0396
 ## EUID
 jsc0396
 ## Open Source Discovery
